@@ -7,3 +7,7 @@
 3. Amaan Ahmed
 4. Hamza Shakeel
 5. Khan Abdullah
+
+# Project Milestones:
+
+1. <span style="color: green">Data scraping - Completed</span>
