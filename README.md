@@ -10,7 +10,7 @@
 
 # Project Milestones:
 1. Data scraping - Completed
-2. Data Cleaning - In Process
+2. Data Cleaning - Completed
 3. 1st Model Implementation - In Process
 4. 2nd and 3rd Model Implementation - Not Started
 5. Testing - Not Started
