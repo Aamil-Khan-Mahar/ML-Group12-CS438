@@ -9,5 +9,9 @@
 5. Khan Abdullah
 
 # Project Milestones:
-
-1. <span style="color: green">Data scraping - Completed</span>
+1. Data scraping - Completed
+2. Data Cleaning - In Process
+3. 1st Model Implementation - In Process
+4. 2nd and 3rd Model Implementation - Not Started
+5. Testing - Not Started
+6. Final Report - Not Started
