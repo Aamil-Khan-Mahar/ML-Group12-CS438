@@ -7,5 +7,4 @@
 3. Amaan Ahmed
 4. Hamza Shakeel
 5. Khan Abdullah
-
-# TA: Essa Jan
+- TA: Essa Jan -
